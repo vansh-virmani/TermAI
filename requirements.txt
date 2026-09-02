@@ -1,0 +1,5 @@
+typer 
+rich
+groq
+pydantic
+python-dotenv
